@@ -1,0 +1,8 @@
+app:
+  port: 9090
+db:
+  conn: postgres://test:test@localhost:5432/postgres?sslmode=disable
+api:
+  key: YOU_CURRATE_API_KEY
+process:
+  ticker: 5
